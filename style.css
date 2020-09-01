@@ -5,7 +5,7 @@
 }
 
 :root{
-    --main-bg:hsl(204,64%,94%);
+    --main-bg:#fed167;
     --center-bg:#2980b9;
     --bg:71,81,82;
     --center-boxshadow:0 1.4rem 2.8rem rgba(0,0,0,0.25),0 1rem 1rem rgba(0,0,0,0.22);
